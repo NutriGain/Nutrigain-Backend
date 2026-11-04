@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Ejercicio",
+    "description": "Haz 50 sentadillas hoy",
+    "difficulty": "HARD",
+    "category": "EXERCISE",
+    "xpReward": 35
+  },
+  {
+    "title": "Nutrición",
+    "description": "Toma 2L de agua durante el día",
+    "difficulty": "EASY",
+    "category": "NUTRITION",
+    "xpReward": 10
+  },
+  {
+    "title": "Ejercicio",
+    "description": "30 minutos de cardio",
+    "difficulty": "HARD",
+    "category": "EXERCISE",
+    "xpReward": 35
+  },
+  {
+    "title": "Mindfulness",
+    "description": "10 minutos de meditación",
+    "difficulty": "EASY",
+    "category": "MINDFULNESS",
+    "xpReward": 10
+  },
+  {
+    "title": "Ejercicio",
+    "description": "Haz 3 series de planchas",
+    "difficulty": "MEDIUM",
+    "category": "EXERCISE",
+    "xpReward": 20
+  },
+  {
+    "title": "Hidratación Matutina",
+    "description": "Bebe un vaso de agua nada más levantarte para activar tu metabolismo",
+    "difficulty": "EASY",
+    "category": "NUTRITION",
+    "xpReward": 10
+  },
+  {
+    "title": "Caminar 10,000 Pasos",
+    "description": "Alcanza los 10,000 pasos durante el día, puedes usar las escaleras o caminar durante las llamadas",
+    "difficulty": "MEDIUM",
+    "category": "EXERCISE",
+    "xpReward": 20
+  },
+  {
+    "title": "Meditación de 5 Minutos",
+    "description": "Dedica 5 minutos a la meditación o respiración consciente para reducir el estrés",
+    "difficulty": "EASY",
+    "category": "MINDFULNESS",
+    "xpReward": 10
+  },
+  {
+    "title": "Ejercicio de Fuerza",
+    "description": "Realiza 3 series de 15 flexiones, sentadillas y planchas",
+    "difficulty": "MEDIUM",
+    "category": "EXERCISE",
+    "xpReward": 20
+  },
+  {
+    "title": "Técnica Pomodoro",
+    "description": "Trabaja durante 25 minutos concentrado y descansa 5 minutos. Repite 4 veces",
+    "difficulty": "EASY",
+    "category": "PRODUCTIVITY",
+    "xpReward": 10
+  },
+  {
+    "title": "Comida Sin Pantallas",
+    "description": "Come al menos una comida del día sin mirar el teléfono, TV o computadora",
+    "difficulty": "MEDIUM",
+    "category": "MINDFULNESS",
+    "xpReward": 20
+  },
+  {
+    "title": "Entrenamiento HIIT",
+    "difficulty": "HARD",
+    "category": "EXERCISE",
+    "xpReward": 35,
+    "description": "Realiza 20 minutos de entrenamiento de alta intensidad con intervalos"
+  },
+  {
+    "title": "Desayuno Saludable",
+    "description": "Prepara un desayuno equilibrado con proteínas, carbohidratos complejos y grasas saludables",
+    "difficulty": "EASY",
+    "category": "NUTRITION",
+    "xpReward": 10
+  },
+  {
+    "title": "Organizar Espacio de Trabajo",
+    "description": "Limpia y organiza completamente tu escritorio o espacio de trabajo",
+    "difficulty": "MEDIUM",
+    "category": "PRODUCTIVITY",
+    "xpReward": 20
+  },
+  {
+    "title": "Gratitud Diaria",
+    "description": "Escribe 3 cosas por las que te sientes agradecido hoy",
+    "difficulty": "EASY",
+    "category": "MINDFULNESS",
+    "xpReward": 10
+  },
+  {
+    "title": "Reto Extremo: 200 Burpees",
+    "description": "Completa 200 burpees en el día, en las series que necesites",
+    "difficulty": "EXTREME",
+    "category": "EXERCISE",
+    "xpReward": 100
+  },
+  {
+    "title": "Reto Extremo: Ayuno de Azúcar",
+    "description": "24 horas sin azúcar añadida ni bebidas azucaradas",
+    "difficulty": "EXTREME",
+    "category": "NUTRITION",
+    "xpReward": 100
+  },
+  {
+    "title": "Reto Extremo: Meditación de 30 Minutos",
+    "description": "Medita 30 minutos seguidos sin interrupciones",
+    "difficulty": "EXTREME",
+    "category": "MINDFULNESS",
+    "xpReward": 100
+  },
+  {
+    "title": "Reto Extremo: Doble Entrenamiento",
+    "description": "Entrena mañana y tarde: dos sesiones completas hoy",
+    "difficulty": "EXTREME",
+    "category": "EXERCISE",
+    "xpReward": 100
+  },
+  {
+    "title": "Reto Extremo: Día Sin Distracciones",
+    "description": "4 horas de trabajo profundo sin redes sociales ni notificaciones",
+    "difficulty": "EXTREME",
+    "category": "PRODUCTIVITY",
+    "xpReward": 100
+  }
+]

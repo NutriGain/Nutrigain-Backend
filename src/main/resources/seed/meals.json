@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Huevos revueltos con tostadas",
+    "mealType": "BREAKFAST",
+    "calories": 350,
+    "proteins": 20,
+    "carbohydrates": 40,
+    "fats": 10,
+    "imageUrl": "https://comedera.com/wp-content/uploads/sites/9/2022/12/tosta-de-huevo-revuelto.jpg"
+  },
+  {
+    "name": "Avena con plátano",
+    "mealType": "BREAKFAST",
+    "calories": 300,
+    "proteins": 12,
+    "carbohydrates": 50,
+    "fats": 8,
+    "imageUrl": "https://campograndeperu.com/wp-content/uploads/2024/02/avena-con-platano.jpg"
+  },
+  {
+    "name": "Pollo a la plancha con arroz",
+    "mealType": "LUNCH",
+    "calories": 600,
+    "proteins": 35,
+    "carbohydrates": 50,
+    "fats": 20,
+    "imageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/H6BF45RGRNBDDI6NYOP5LAMWAI.jpg"
+  },
+  {
+    "name": "Ensalada de atún",
+    "mealType": "LUNCH",
+    "calories": 450,
+    "proteins": 30,
+    "carbohydrates": 25,
+    "fats": 18,
+    "imageUrl": "https://recetas.encolombia.com/wp-content/uploads/2025/01/Ensalada-de-atun-con-aguacate.jpg"
+  },
+  {
+    "name": "Sopa de verduras",
+    "mealType": "DINNER",
+    "calories": 280,
+    "proteins": 10,
+    "carbohydrates": 30,
+    "fats": 5,
+    "imageUrl": "https://mejorconsalud.as.com/wp-content/uploads/2018/07/sopa-verduras-1.jpg"
+  },
+  {
+    "name": "Sandwich de pavo",
+    "mealType": "DINNER",
+    "calories": 350,
+    "proteins": 20,
+    "carbohydrates": 35,
+    "fats": 10,
+    "imageUrl": "https://www.lacocinasana.com/static/59bdd63adf529051381443d3480e28dd/a892d/pechuga_pavo_16043349ed.jpg"
+  },
+  {
+    "name": "Yogurt con granola",
+    "mealType": "SNACK",
+    "calories": 200,
+    "proteins": 8,
+    "carbohydrates": 25,
+    "fats": 5,
+    "imageUrl": "https://b3tterfoods.com/cdn/shop/articles/bowl_de_granola_con_yogurt_y_frutas_1200x1200.jpg?v=1698767246"
+  },
+  {
+    "name": "Fruta picada",
+    "mealType": "SNACK",
+    "calories": 150,
+    "proteins": 2,
+    "carbohydrates": 30,
+    "fats": 1,
+    "imageUrl": "https://dabbawala.com.mx/wp-content/uploads/2023/03/mix-frutas-1.jpg"
+  },
+  {
+    "name": "Tostadas con mantequilla de maní y banana",
+    "mealType": "BREAKFAST",
+    "calories": 360,
+    "proteins": 12,
+    "carbohydrates": 45,
+    "fats": 14,
+    "imageUrl": "https://misantoremedio.com/cdn/shop/articles/Screen_Shot_2022-06-01_at_2.08.33_PM.png?v=1654106931&width=1100"
+  },
+  {
+    "name": "Chía pudding con frutos rojos",
+    "mealType": "BREAKFAST",
+    "calories": 280,
+    "proteins": 10,
+    "carbohydrates": 30,
+    "fats": 12,
+    "imageUrl": "https://okdiario.com/img/recetas/2017/10/01/pudding-de-chia.jpg"
+  },
+  {
+    "name": "Arroz chaufa de pollo",
+    "mealType": "LUNCH",
+    "calories": 700,
+    "proteins": 32,
+    "carbohydrates": 60,
+    "fats": 25,
+    "imageUrl": "https://comedera.com/wp-content/uploads/sites/9/2023/05/shutterstock_2073860435.jpg"
+  },
+  {
+    "name": "Tallarines rojos con carne",
+    "mealType": "LUNCH",
+    "calories": 650,
+    "proteins": 28,
+    "carbohydrates": 70,
+    "fats": 22,
+    "imageUrl": "https://cocina-casera.com/wp-content/uploads/2018/04/tallarines-rojos.jpg"
+  },
+  {
+    "name": "Crema de zapallo con huevo sancochado",
+    "mealType": "DINNER",
+    "calories": 320,
+    "proteins": 16,
+    "carbohydrates": 20,
+    "fats": 12,
+    "imageUrl": "https://cocinaperuana.espaciolatino.com/recetas-de-sopas/img600/crema-zapallo-huevo.jpg"
+  },
+  {
+    "name": "Tortilla de espinaca y queso",
+    "mealType": "DINNER",
+    "calories": 340,
+    "proteins": 20,
+    "carbohydrates": 15,
+    "fats": 18,
+    "imageUrl": "https://images.aws.nestle.recipes/original/2024_10_14T08_58_48_badun_images.badun.es_tortilla_de_espinacas_y_queso_fresco.jpg"
+  },
+  {
+    "name": "Galletas integrales con mantequilla de maní",
+    "mealType": "SNACK",
+    "calories": 230,
+    "proteins": 8,
+    "carbohydrates": 22,
+    "fats": 13,
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjGaiwSafXfdzJnSbZRsCfkW-0yp_7pD6-dNWvLk53jhbpyPr8c4nYr2zKxp1RHZ_299BlNajKmb6rTg6Vbxqpo7ABSbhkHSNgB52P6ek1Jz_yi6baDwa8Avz6JVZNDQtX5TDWLADgIzQ/s1600/galletas-fruta-crema-cacahuete-02b.jpg"
+  },
+  {
+    "name": "Manzana con canela y yogur",
+    "mealType": "SNACK",
+    "calories": 180,
+    "proteins": 6,
+    "carbohydrates": 28,
+    "fats": 5,
+    "imageUrl": "https://www.justspices.es/media/recipe/resized/510x510/recipe/Mix_para_porridge_yogur_con_manzana_y_canela-5.jpg"
+  }
+]
